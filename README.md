@@ -1,5 +1,6 @@
 # Python-Project--Data-Analysis
-## Objective: This project aims at comprehensive analysis of data from a company containing the detailed information of employees across various teams.
+## Objective: 
+This project aims at comprehensive analysis of data from a company containing the detailed information of employees across various teams.
 ## Project Overview
 * The dataset contain 458 rows and 9 columns including the features such as Name,Team,Number,Position,Age,Height,Weight,College and Salary.
 * The dataset contain missing values in the Salary and College column and the Height column had inconsistent data and hence need imputation techniques for further analysis.
